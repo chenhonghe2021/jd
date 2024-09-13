@@ -1,13 +1,11 @@
 mixed-port: 7890
-allow-lan: false
-mode: rule
-ipv6: false
+allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 dns:
-  enable: true
+  enabled: true
   listen: 0.0.0.0:53
-  ipv6: false
+  ipv6: true
   default-nameserver:
     - 223.5.5.5
     - 114.114.114.114

@@ -10,14 +10,14 @@
 
 报错文件是使用https://v2rayse.com/node-convert 转换；当通过openwrt搭建订阅转换服务sub模板生成yaml文件，经过内核检验会报错：level=error msg="yaml: line 8: did not find expected node content"
 
-在https://v2rayse.com/node-convert界面右上角有个旧版本，可以选V2，即这个网址https://v2.v2rayse.com/node-convert #转换会提醒是mate内容文件。
+在https://v2rayse.com/node-convert界面右上角有个旧版本，可选V2，即这个网址https://v2.v2rayse.com/node-convert #转换会提醒是mate内容文件
 使用该连接生成的yaml文件内核检验没有问题，可以正常使用。
 
 **小结：**
 
 1. 原始节点文本：v2-20240912190.txt
   
-2. 第1个地址 ttps://v2rayse.com/node-convert #报错 ；
+2. 第1个地址 https://v2rayse.com/node-convert #报错 ；
   
   附：生成yaml文件：v2-20240913160632.yaml
   

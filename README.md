@@ -20,6 +20,6 @@
   
   附：生成yaml文件：v2-20240913160632.yaml
   
-3. 第2个地址：https://v2.v2rayse.com/node-convert （v2版本）#正常 。
+3. 第2个地址：https://v2.v2rayse.com/node-convert （v2版本）#正常 。   
   
   附：生成yaml文件：v2rayse_2024-09-13 17_14_36.yaml

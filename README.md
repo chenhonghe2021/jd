@@ -23,6 +23,7 @@
 3. 第2个地址：https://v2.v2rayse.com/node-convert      （v2版本）#正常 
   
   附：生成yaml文件：v2rayse_2024-09-13 17_14_36.yaml
+  
 **问题后续：**
 2024-09-16 06:19:55 level=error msg="yaml: unmarshal errors:\n  line 1: cannot unmarshal !!str `No node...` into config.RawConfig"
 2024年9月16日，检查内容报错，一直没找到原因……各种检查格式，版本转换都无效。

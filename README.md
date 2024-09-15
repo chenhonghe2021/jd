@@ -10,7 +10,7 @@
 
 报错文件是使用https://v2rayse.com/node-convert 转换；当通过openwrt搭建订阅转换服务sub模板生成yaml文件，经过内核检验会报错：level=error msg="yaml: line 8: did not find expected node content"
 
-在https://v2rayse.com/node-convert 界面右上角有个旧版本，可选V2，即这个网址 https://v2.v2rayse.com/node-convert  #转换会提醒是mate内容文件 使用该连接生成的yaml文件内核检验没有问题，可以正常使用。
+在https://v2rayse.com/node-convert 界面右上角有个旧版本，可选V2，即这个网址 https://v2.v2rayse.com/node-convert  #转换会提醒是mate内容文件 ~~使用该连接生成的yaml文件内核检验没有问题，可以正常使用。~~
 
 **小结：**
 
@@ -24,7 +24,7 @@
   
   附：生成yaml文件：v2rayse_2024-09-13 17_14_36.yaml
   
-**问题后续：**
+**_问题后续：_**
 2024-09-16 06:19:55 level=error msg="yaml: unmarshal errors:\n  line 1: cannot unmarshal !!str `No node...` into config.RawConfig"
 2024年9月16日，检查内容报错，一直没找到原因……各种检查格式，版本转换都无效。
 
